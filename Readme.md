@@ -142,13 +142,14 @@ This page contains my solution of CodeChef problems. They are in C and C++ langu
 | 131 | TRICOIN | Coins and Triangle | [Question](https://www.codechef.com/problems/TRICOIN) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/TRICOIN%20-%20Coins%20and%20Triangle)
 | 132 | TRUESCORE | Is the Score Consistent | [Question](https://www.codechef.com/problems/TRUESCORE) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/TRUESCORE%20-%20Is%20the%20Score%20Consistent)
 | 133 | TRUTHLIE | Truth Teller And Liars 101 | [Question](https://www.codechef.com/problems/TRUTHLIE) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/TRUTHLIE%20-%20Truth%20Teller%20And%20Liars%20101)
-| 134 | TSTROBOT | Testing Robot | [Question](https://www.codechef.com/problems/TSTROBOT) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/TSTROBOT%20-%20Testing%20Robot)
-| 135 | VAL142 | Valentine Gifts | [Question](https://www.codechef.com/problems/VAL142) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/VAL142%20-%20Valentine%20Gifts)
-| 136 | WATERCONS | Water Consumption | [Question](https://www.codechef.com/problems/WATERCONS) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/WATERCONS%20-%20Water%20Consumption)
-| 137 | WEEDING | Weeding | [Question](https://www.codechef.com/problems/WEEDING) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/WEEDING%20-%20Weeding)
-| 138 | WEPCH | Weapon Choice | [Question](https://www.codechef.com/problems/WEPCH) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/WEPCH%20-%20Weapon%20Choice)
-| 139 | WORDLE | Wordle | [Question](https://www.codechef.com/problems/WORDLE) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/WORDLE%20-%20Wordle)
-| 140 | YOGACLASS | Yoga Class | [Question](https://www.codechef.com/problems/YOGACLASS) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/YOGACLASS%20-%20Yoga%20Class)
+| 134 | TSORT |  Simple Sorting | [Question](https://www.codechef.com/problems/TSORT) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/TSORT%20-%20%20Simple%20Sorting)
+| 135 | TSTROBOT | Testing Robot | [Question](https://www.codechef.com/problems/TSTROBOT) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/TSTROBOT%20-%20Testing%20Robot)
+| 136 | VAL142 | Valentine Gifts | [Question](https://www.codechef.com/problems/VAL142) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/VAL142%20-%20Valentine%20Gifts)
+| 137 | WATERCONS | Water Consumption | [Question](https://www.codechef.com/problems/WATERCONS) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/WATERCONS%20-%20Water%20Consumption)
+| 138 | WEEDING | Weeding | [Question](https://www.codechef.com/problems/WEEDING) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/WEEDING%20-%20Weeding)
+| 139 | WEPCH | Weapon Choice | [Question](https://www.codechef.com/problems/WEPCH) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/WEPCH%20-%20Weapon%20Choice)
+| 140 | WORDLE | Wordle | [Question](https://www.codechef.com/problems/WORDLE) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/WORDLE%20-%20Wordle)
+| 141 | YOGACLASS | Yoga Class | [Question](https://www.codechef.com/problems/YOGACLASS) | [Solution](https://github.com/ShazidMashrafi/CodeChef/tree/main/Codes/YOGACLASS%20-%20Yoga%20Class)
 
 </div>
 
